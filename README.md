@@ -3,8 +3,6 @@
 💻 Passionate about building innovative and scalable solutions for the digital world.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/TariqMarandu)  
-[![Website Badge](https://img.shields.io/badge/Website-Portfolio-blue)](https://www.tariqdev.com)
 
 ## 👀 About Me
 
@@ -18,15 +16,15 @@
 ## Technologies
 
 ### 🚀 Frameworks & Tools
-- **Frontend**: React, Flutter, Dart  
-- **Backend**: Node.js, Laravel, PHP  
-- **Databases**: Firebase, PostgreSQL, MySQL  
-- **Other Tools**: Git, Docker, Firebase, Stripe  
+- **Frontend**: React, Flutter, JavaScript, Html & CSS 
+- **Backend**: Firebase, Laravel, PHP  
+- **Databases**: Firestore, PostgreSQL, MySQL  
+- **Other Tools**: Git, API
 
-### 🌱 Currently Exploring:
-- **GoLang**, **Electron.js**, **C++**
+### Continual building:
+- **Python**, **Java**, **Django**
 
-## 🤝 Let's Connect
+## Angry is key
 
 - [LinkedIn](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
 - [Email](mailto:marandumashaka78@gmail.com)
