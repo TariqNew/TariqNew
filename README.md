@@ -21,10 +21,10 @@
 - **Databases**: Firestore, PostgreSQL, MySQL  
 - **Other Tools**: Git, API
 
-### Continual building:
+### still Continue building in:
 - **Python**, **Java**, **Django**
 
-## Angry is key
+## Reach To me
 
 - [LinkedIn](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
 - [Email](mailto:marandumashaka78@gmail.com)
