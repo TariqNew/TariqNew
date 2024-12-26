@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
 
-## 👀 About Me
+## Learn About Tariq
 
 - 🔭 I’m currently working on **SafariLoad**, a revolutionary platform for luggage transportation using big trucks.
 - 🌱 I’m continuously improving my skills in **Flutter**, **React**, **Firebase**, and **API Development**.
@@ -15,7 +15,7 @@
 
 ## Technologies
 
-### 🚀 Frameworks & Tools
+### Frameworks, Technologies & Tools
 - **Frontend**: React, Flutter, JavaScript, Html & CSS 
 - **Backend**: Firebase, Laravel, PHP  
 - **Databases**: Firestore, PostgreSQL, MySQL  
