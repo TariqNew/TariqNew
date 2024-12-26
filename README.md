@@ -1,15 +1,32 @@
-👋 Hi, I’m **Tariq**
+# Hi 👋, I'm Tariq!  
+🎯 **Software Engineer | Web & Mobile Application Developer**  
+💻 Passionate about building innovative and scalable solutions for the digital world.
 
-- 👀 I’m a **Software Engineer** focused on **Web** and **Mobile Development**
-- 🌱 Technologies I work with: **Java**, **JavaScript**, **PHP**, **Dart**, **React**, **Firebase**, **Flutter**, **Laravel**
-- 💼 I'm open to collaborating on **innovative projects** that push the boundaries of technology
-- 📫 Reach me at: marandumashaka78@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving complex challenges and turning ideas into functional applications!
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/TariqMarandu)  
+[![Website Badge](https://img.shields.io/badge/Website-Portfolio-blue)](https://www.tariqdev.com)
 
+## 👀 About Me
 
+- 🔭 I’m currently working on **SafariLoad**, a revolutionary platform for luggage transportation using big trucks.
+- 🌱 I’m continuously improving my skills in **Flutter**, **React**, **Firebase**, and **API Development**.
+- 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
+- 🧠 I love solving **complex problems** and sharing knowledge with others.
+- ⚡ Fun fact: I have a deep interest in solving programming challenges and working with the latest technologies.
+- 💬 Ask me about building **web and mobile applications**, integrating **APIs**, or working with **new tech stacks**!
 
-<!---
-TariqNew/TariqNew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technologies
+
+### 🚀 Frameworks & Tools
+- **Frontend**: React, Flutter, Dart  
+- **Backend**: Node.js, Laravel, PHP  
+- **Databases**: Firebase, PostgreSQL, MySQL  
+- **Other Tools**: Git, Docker, Firebase, Stripe  
+
+### 🌱 Currently Exploring:
+- **GoLang**, **Electron.js**, **C++**
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
+- [Email](mailto:marandumashaka78@gmail.com)
