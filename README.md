@@ -7,7 +7,7 @@
 ## Learn About Tariq
 
 - 🔭 I’m currently working on **SafariLoad**, a revolutionary platform for luggage transportation using big trucks.
-- 🌱 I’m continuously improving my skills in **Flutter**, **React**, **Firebase**, and **API Development**.
+- 🌱 I’m continuously improving my skills in **Flutter**, **React**, **Firebase**, **BootStrap**, and **API Development**.
 - 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
 - 🧠 I love solving **complex problems** and sharing knowledge with others.
 - ⚡ Fun fact: I have a deep interest in solving programming challenges and working with the latest technologies.
