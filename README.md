@@ -3,6 +3,7 @@
 💻 Passionate about building innovative and scalable solutions for the digital world.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/marandu_mashaka/)
 
 ## Learn About Tariq
 
