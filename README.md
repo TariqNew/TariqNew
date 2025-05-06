@@ -1,31 +1,48 @@
 # Hi 👋, I'm Tariq!  
-🎯 **Software Engineer | Web & Mobile Application Developer**  
-💻 Passionate about building innovative and scalable solutions for the digital world.
+🎯 **Software Engineer | JavaScript/TypeScript Enthusiast | Full-Stack Developer**  
+💻 Passionate about building innovative and scalable solutions using modern web technologies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/marandu_mashaka/)
 
-## Learn About Tariq
+---
 
-- 🔭 I’m currently working on **SafariLoad**, a revolutionary platform for luggage transportation using big trucks.
-- 🌱 I’m continuously improving my skills in **Flutter**, **React**, **Firebase**, **BootStrap**, and **API Development**.
-- 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
-- 🧠 I love solving **complex problems** and sharing knowledge with others.
-- ⚡ Fun fact: I have a deep interest in solving programming challenges and working with the latest technologies.
-- 💬 Ask me about building **web and mobile applications**, integrating **APIs**, or working with **new tech stacks**!
+## 🚀 Learn About Tariq
 
-## Technologies
+- 🌱 I’m continuously sharpening my skills in **React**, **Node.js**, **Express**, **TypeScript**, and **API Development**.
+- 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge full-stack JavaScript solutions**.
+- 🧠 I enjoy solving **complex problems** and contributing to the developer community.
+- ⚡ Fun fact: I'm passionate about crafting seamless user experiences and powerful backend systems using **JavaScript and TypeScript**.
+- 💬 Ask me about building **full-stack web apps**, creating **RESTful APIs**, or scaling with **React and Node.js**.
 
-### Frameworks, Technologies & Tools
-- **Frontend**: React, Flutter, JavaScript, Html & CSS 
-- **Backend**: Firebase, Laravel, PHP  
-- **Databases**: Firestore, PostgreSQL, MySQL  
-- **Other Tools**: Git, API
+---
 
-### still Continue building in:
-- **Python**, **Java**, **Django**
+## 🛠️ Technologies & Tools
 
-## Reach To me
+### 💻 Frontend
+- React  
+- JavaScript  
+- TypeScript  
+- HTML & CSS  
+
+### 🧩 Backend
+- Node.js  
+- Express  
+- PHP  
+
+### 🗄️ Databases
+- PostgreSQL  
+- MySQL  
+
+### 🧰 Other Tools
+- Git  
+- REST APIs  
+- Postman  
+
+---
+
+## 📫 Reach Out To Me
 
 - [LinkedIn](https://www.linkedin.com/in/mashaka-marandu-65bab82a8/)  
 - [Email](mailto:marandumashaka78@gmail.com)
+
