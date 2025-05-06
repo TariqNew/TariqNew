@@ -32,7 +32,8 @@
 
 ### 🗄️ Databases
 - PostgreSQL  
-- MySQL  
+- MySQL
+- MongoDB
 
 ### 🧰 Other Tools
 - Git  
