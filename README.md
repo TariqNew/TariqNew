@@ -8,7 +8,7 @@ Web Developer
 * Mail me at [marandumashaka78@gmail.com](mailto:marandumashaka78@gmail.com)
 
 <a href="https://www.github.com/TariqNew" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/misingo255?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/TariqNew?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![](https://komarev.com/ghpvc/?username=TariqNew&style=for-the-badge)
 
